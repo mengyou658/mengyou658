@@ -2,8 +2,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mengyou658&show_icons=true&theme=graywhite"/>
 </p>
 <p align="center"> 10技术人，技术爱好者 </p>  
-<p align="center"> 曾在在河南汉威做过一年技术，后摸爬滚打到北京，百度做过一年技术开发，几经波折后回到郑州在小公司做技术经理，拥有丰富的 挖坑（从spring到spring-boot，从tp到larval，从js到react到vue到tarojs到uniapp，从c到c++到qt到golang） 踩坑（java的痛，tp的坑，js的累，c++的崩溃） 填坑（Java自动工具，tp模板，js各种工具改造，c++的bug） 背锅（从被领导到领导，从客户到陪客户）经验 🐶   </p>  
-<p align="center"> 广泛涉猎于Java，Php，Golang，Nodejs，Python，c/c++ </p>  
+<p align="left">曾在在河南汉威做过2年多技术，后摸爬滚打到北京，百度做过2年技术开发，几经波折后回到郑州在小公司做技术经理，拥有丰富的 挖坑（从spring到spring-boot，从tp到larval，从js到react到vue到tarojs到uniapp，从c到c++到qt到golang） 踩坑（java的痛，tp的坑，js的累，c++的崩溃） 填坑（Java自动工具，tp模板，js各种工具改造，c++的bug） 背锅（从被领导到领导，从客户到陪客户）经验 🐶   </p>  
+<p align="center">广泛涉猎于Java，Php，Golang，Nodejs，Python，c/c++ </p>  
 <table align="center"><tr>
 <td valign="top" width="50%">
 
@@ -26,5 +26,5 @@
 - 👯 一直在寻求信任的合作
 - 🤔 期待你的认同
 - 💬 有问题请发邮箱：mengyou658@163.com
-- 📫 或者打电话（电话是不会直接给的啦，还是邮箱吧😀）
+- 📫 或者打电话（电话是不会直接给的啦，还是邮箱吧😀，请参考简历）
 
