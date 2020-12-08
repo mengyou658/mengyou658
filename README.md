@@ -13,7 +13,7 @@
 </td>
 <td valign="top" width="50%">
 
-### [我的简历](我的简历)
+### [我的简历](简历.md)
 - [我的github](https://github.com/mengyou658)
 - [我的github新账号](https://github.com/yunchaoq)
 - [我的CSDN](https://blog.csdn.net/mengyouyouzi)
@@ -21,7 +21,7 @@
 </td>
 </tr></table>
 
-- 🔭 我当前在家工作，最近正在做一个腾讯即时通讯IM-react-native集成（准备开源中）
+- 🔭 我当前在家工作
 - 🌱 [我当前学习的内容：主要机器学习](https://github.com/mengyou658/keywords#%E6%9C%80%E8%BF%91%E5%B0%9D%E8%AF%95%E5%AD%A6%E4%B9%A0)
 - 👯 一直在寻求信任的合作
 - 🤔 期待你的认同
