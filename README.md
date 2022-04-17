@@ -13,7 +13,7 @@
 </td>
 <td valign="top" width="50%">
 
-### [我的简历](简历.md)
+### 我的简历
 - [我的github](https://github.com/mengyou658)
 - [我的github新账号](https://github.com/yunchaoq)
 - [我的CSDN](https://blog.csdn.net/mengyouyouzi)
