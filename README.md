@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mengyou658&show_icons=true&theme=graywhite"/>
 </p>
-<p align="center"> 10技术人，技术爱好者 </p>  
+<p align="center"> 12技术人，技术爱好者 </p>  
 <p align="left">曾在在河南汉威做过2年多技术，后摸爬滚打到北京，百度做过2年技术开发，几经波折后回到郑州在小公司做技术经理，拥有丰富的 挖坑（从spring到spring-boot，从tp到larval，从js到react到vue到tarojs到uniapp，从c到c++到qt到golang） 踩坑（java的痛，tp的坑，js的累，c++的崩溃） 填坑（Java自动工具，tp模板，js各种工具改造，c++的bug） 背锅（从被领导到领导，从客户到陪客户）经验 🐶   </p>  
 <p align="center">广泛涉猎于Java，Rust，Golang，Nodejs，Python，Php，c/c++ </p>  
 <table align="center"><tr>
